@@ -209,4 +209,83 @@ I believe the best way to learn programming is to **build real things and solve 
 
 <div align="center">
 
-<img src="https://github-readme-st
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Journey
+
+<div align="center">
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 💡 Currently Thinking About
+
+```text
+How can I turn a complex problem
+into a simple solution?
+
+How can I write cleaner code?
+
+How can I build software
+that people actually want to use?
+
+How does software break?
+
+And most importantly...
+
+How can I make it better?
+```
+
+---
+
+# 🌱 Beyond Code
+
+When I'm not coding:
+
+🏏 Playing Cricket
+📚 Learning New Technologies
+🎮 Gaming
+💡 Exploring New Project Ideas
+🧩 Solving Problems
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in:
+
+* 💻 Interesting projects
+* 🤝 Collaboration
+* 🌱 Open-source contributions
+* 🧠 Programming discussions
+* 🔐 Cybersecurity
+* 🚀 New technology
+
+<div align="center">
+
+### **Build. Learn. Break. Fix. Repeat.**
+
+⭐ If you find something useful here, consider giving it a star!
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧑‍💻 Thanks for visiting my profile!
+
+**The journey from student → engineer starts with one line of code.**
+
+`while(alive) { keepLearning(); }`
+
+</div>
